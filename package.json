@@ -1,0 +1,22 @@
+{
+  "name": "system-usage",
+  "version": "1.0.0",
+  "description": "Displays the usage of your components and hosts it on a local web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xHannah/System-Usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xHannah/System-Usage/issues"
+  },
+  "homepage": "https://github.com/0xHannah/System-Usage#readme",
+  "dependencies": {
+    "systeminformation": "^4.34.5"
+  }
+}
